@@ -82,7 +82,7 @@
 ### 6. Hardware Demonstration Video
 [![Demo Video](https://img.youtube.com/vi/n_nGin9eMWw/0.jpg)](https://www.youtube.com/watch?v=n_nGin9eMWw)
 
-### 7. Awards and Recognition
+<!-- ### 7. Awards and Recognition
   1. This Project won the [Ernst Young Blockchain Hackathon](https://www.youtube.com/watch?v=YGqDgvBJQ7M) in 2017.<br><br>
         ![EY Hackathon Winners](https://user-images.githubusercontent.com/28734882/90040230-559a0480-dce5-11ea-903d-c02946b79b23.jpg)
    <br><br>
@@ -107,4 +107,4 @@
     * [Saurabh Gupta](https://www.linkedin.com/in/saurabh-gupta-1002/)
 
   * Lab
-    * [Center of Excellence - CNDS](https://www.vjti.ac.in/images/coe-cnds/project/index.html)
+    * [Center of Excellence - CNDS](https://www.vjti.ac.in/images/coe-cnds/project/index.html) -->
