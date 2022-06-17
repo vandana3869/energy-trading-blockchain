@@ -6,8 +6,7 @@
     - [4. Our Prototype Architecture](#4-our-prototype-architecture)
     - [5. Demonstration Procedure](#5-demonstration-procedure)
     - [6. Hardware Demonstration Video](#6-hardware-demonstration-video)
-    - [7. Awards and Recognition](#7-awards-and-recognition)
-    - [8. Team Details](#8-team-details)
+    
 ### 1. Use case Description
   * Consider an isolated micro-grid, containing entities that generate and store energy; and other entities that are energy deficient.
   * Such a network requires distribution of energy to bring about equilibrium.
