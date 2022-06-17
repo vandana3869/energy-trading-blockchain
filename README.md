@@ -82,29 +82,4 @@
 ### 6. Hardware Demonstration Video
 [![Demo Video](https://img.youtube.com/vi/n_nGin9eMWw/0.jpg)](https://www.youtube.com/watch?v=n_nGin9eMWw)
 
-<!-- ### 7. Awards and Recognition
-  1. This Project won the [Ernst Young Blockchain Hackathon](https://www.youtube.com/watch?v=YGqDgvBJQ7M) in 2017.<br><br>
-        ![EY Hackathon Winners](https://user-images.githubusercontent.com/28734882/90040230-559a0480-dce5-11ea-903d-c02946b79b23.jpg)
-   <br><br>
-  2. This Project also won at the [Global Blockchain Congress](https://gbck.nltr.org/) in 2018.<br><br>
-        ![Global Blockchain Congress Winners](https://user-images.githubusercontent.com/28734882/90041077-6a2acc80-dce6-11ea-9819-fd172af6c7ae.jpg) 
-    <br><br>
-  3. Visit by Dr Shekhar Dutt, former Defence Secretary, Govt. of India.<br><br>
-        ![Visit by Dr. SM Dutt](https://user-images.githubusercontent.com/28734882/90041747-5b90e500-dce7-11ea-8e34-db6c260e2fbe.jpg)
-    <br><br>
-  4. Visit by a Swiss Delegation operative in the fields of energy storage, energy efficiency, and Solar energy.<br><br>
-        ![Visit by Swiss Delegation](https://user-images.githubusercontent.com/28734882/90042499-65ffae80-dce8-11ea-948c-7182f0001e38.jpg)
 
- ### 8. Team Details
-  * Mentors
-    * [Dr. Faruk Kazi](https://www.linkedin.com/in/dr-faruk-kazi-vjti)
-    * [Dr. Irfan Siddavatam](https://www.linkedin.com/in/irfan-siddavatam-a984944b)
- 
-  * Members
-    * [Awadhut Thube](https://www.linkedin.com/in/thube/)
-    * [Ashish Kamble](https://www.linkedin.com/in/ashish-kamble-/)
-    * [Jheel Nagaria](https://www.linkedin.com/in/jheel-nagaria/)
-    * [Saurabh Gupta](https://www.linkedin.com/in/saurabh-gupta-1002/)
-
-  * Lab
-    * [Center of Excellence - CNDS](https://www.vjti.ac.in/images/coe-cnds/project/index.html) -->
